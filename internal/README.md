@@ -9,6 +9,7 @@ experimental code in learning go
 + 0854 Still wait for [Haskell recommended installation process](https://www.haskell.org/ghcup/).
 + 1114 Update .gitignore file with psh.lnk for Windows PowerShell, test Go and ok.
 + 1208 Seperate PDF files to other repository and simplify this reposiory.
++ 1257 Move first example in learning to hello folder.
 
 
 ## 26-sep-2022
