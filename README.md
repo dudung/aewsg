@@ -1,2 +1,2 @@
-# go-web-server
-learn simple web server with go
+# aewsg
+an experimental web server with go
