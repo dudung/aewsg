@@ -22,6 +22,7 @@ Operation did not complete successfully because the file contains a virus or pot
 + 1701 It is related to Windows Defender. Try a solution with go build.
 + 1707 It works but still cache old files.
 + 1727 Try modify (Edwards, 2020) for clearer, self-explained example.
++ 1738 Get info on how delete program on program exit (Jonathan, 2017).
 
 
 ## 26-sep-2022
