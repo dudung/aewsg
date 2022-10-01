@@ -14,7 +14,7 @@ resources while learning go
 + Mihalis Tsoukalos, "Creating, Reading and Writing Files in Go - A Tutorial", Linode, 3 Jun 2022, url <https://www.linode.com/docs/guides/creating-reading-and-writing-files-in-go-a-tutorial/> [20221001].
 + Gopher Guides, "How To Write Comments in Go", DigitalOcean, 30 Mar 2019, url <https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-go> [20221001].
 + -, "Nu Html Checker", W3C, 27 Sep 2022, url <https://validator.w3.org/nu/> [20221001].
-
++ ankita_saini, "How to Delete or Remove a File in Golang?", GeeksforGeeks, 2 Apr 2020, url <https://www.geeksforgeeks.org/how-to-delete-or-remove-a-file-in-golang/> [20221001].
 
 ## 26-sep-2022
 + -, "Tutorial: Get started with Go", Go, url <https://go.dev/doc/tutorial/getting-started> [20221001].
