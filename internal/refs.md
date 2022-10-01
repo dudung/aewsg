@@ -13,6 +13,7 @@ resources while learning go
 + Sudhir Jonathan, "Answer to 'How to delete a file using golang on program exit?'", Stack Overflow, 4 Jan 2017, url <https://stackoverflow.com/a/41455960/9475509> [20221001].
 + Mihalis Tsoukalos, "Creating, Reading and Writing Files in Go - A Tutorial", Linode, 3 Jun 2022, url <https://www.linode.com/docs/guides/creating-reading-and-writing-files-in-go-a-tutorial/> [20221001].
 + Gopher Guides, "How To Write Comments in Go", DigitalOcean, 30 Mar 2019, url <https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-go> [20221001].
++ -, "Nu Html Checker", W3C, 27 Sep 2022, url <https://validator.w3.org/nu/> [20221001].
 
 
 ## 26-sep-2022
