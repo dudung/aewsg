@@ -2,6 +2,11 @@
 logs while learning go
 
 
+## 02-oct-2022
+0443 Find an article how to write Go packages (Guides, 2019) but not understand.
+0449 Rename this repository to goweser.
+
+
 ## 01-oct-2022
 + 0843 Rename this repository from physics-tutorial-pdf to simple-web-server.<br>
 + 0844 Set temporary purpose still to provide physics tutorial with help of Go.<br>

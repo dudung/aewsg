@@ -2,6 +2,10 @@
 resources while learning go
 
 
+## 02-oct-2022
+Gopher Guides, "How To Write Packages in Go", DigitalOcean, 17 Aug 2019, url <https://www.digitalocean.com/community/tutorials/how-to-write-packages-in-go> [20221002].
+
+
 ## 01-oct-2022
 + -, "Standard Go Project Layout", GitHub, 2 Jul 2022, url <https://github.com/golang-standards/project-layout/tree/762f59e6e2> [20221001].
 + Tobi Balogun, "How To Write Unit Tests in Go", DigitalOcean, 26 Nov 2020, url <https://www.digitalocean.com/community/tutorials/how-to-write-unit-tests-in-go-using-go-test-and-the-testing-package> [20221001].
