@@ -23,6 +23,8 @@ Operation did not complete successfully because the file contains a virus or pot
 + 1707 It works but still cache old files.
 + 1727 Try modify (Edwards, 2020) for clearer, self-explained example.
 + 1738 Get info on how delete program on program exit (Jonathan, 2017).
++ 1816 Learn how to create a file (Tsoukalos, 2022).
++ 1831 Add url to source of example codes.
 
 
 ## 26-sep-2022
