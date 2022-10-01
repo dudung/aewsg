@@ -3,7 +3,8 @@ resources while learning go
 
 
 ## 02-oct-2022
-Gopher Guides, "How To Write Packages in Go", DigitalOcean, 17 Aug 2019, url <https://www.digitalocean.com/community/tutorials/how-to-write-packages-in-go> [20221002].
++ Gopher Guides, "How To Write Packages in Go", DigitalOcean, 17 Aug 2019, url <https://www.digitalocean.com/community/tutorials/how-to-write-packages-in-go> [20221002].
++ Shreya Chaudhary, "Creating and Deploying your First Go Package", Towards Data Science, 22 May 2022, url <https://towardsdatascience.com/eae220905745> [20221002].
 
 
 ## 01-oct-2022
