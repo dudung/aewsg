@@ -12,6 +12,16 @@ logs while learning go
 + 1257 Move first example in learning to hello folder.
 + 1313 Seperate content to [refs.md](refs.md) and this logs.md files for better focus.
 + 1314 Try first example for a simple web server (Forbes, 2017).
++ 1353 It works but always face Windows Defender Firewall.
++ 1532 It works even the Cancel button is chosen.
++ 1533 Try Solution using Inbound Rules (Ismayilov, 2020), and choose port 8081.
++ 1623 Finish learning (Forbes, 2017) but the last one serving content over HTTPS.
++ 1640 Find another similar article but clearer (Edwards, 2020).
++ 1651 Get unknown error message
+Operation did not complete successfully because the file contains a virus or potentially unwanted software.
++ 1701 It is related to Windows Defender. Try a solution with go build.
++ 1707 It works but still cache old files.
++ 1727 Try modify (Edwards, 2020) for clearer, self-explained example.
 
 
 ## 26-sep-2022
