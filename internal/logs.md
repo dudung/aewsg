@@ -7,6 +7,7 @@ logs while learning go
 + 0449 Rename this repository to goweser.
 + 0549 Change mind and rename it to aewsgo, remove local and clone again.
 + 0619 Read how to create and deploy first go package (Chaudhary, 2022).
++ 1315 Try to learn [another aproach](https://github.com/dudung/deploygopackage), but it still fails. Pause for today, take a rest, and continue with office works.
 
 
 ## 01-oct-2022
